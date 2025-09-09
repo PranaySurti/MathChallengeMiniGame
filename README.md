@@ -1,5 +1,3 @@
-Here is a concise GitHub description that summarizes the gameplay, tech stack, and deliverables for the Unity Android math mini‑game.[1]
-
 ## Overview
 A lightweight **Android** math challenge mini‑game where players solve randomly generated addition or subtraction equations, constrained so both questions and answers stay within 1–20.[1]
 Built with Unity 2021+ (Unity 6 LTS preferred), the game uses the **New Input System**, runs in **landscape** only, and scales cleanly across 16:10 to 21:9 aspect ratios.[1]
