@@ -21,5 +21,3 @@ Wrong answers or timeouts reduce lives, and the game ends when all lives are los
 
 ## Deliverables
 Public repo includes the full Unity project and a Deliverables/ folder containing the Android APK, screenshots (project folders and scene hierarchy), and a short Google Doc covering code flow, tuning, editor‑exposed parameters, and potential ScriptableObject use.
-
-(https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/86705124/fa487437-7961-4866-9b7a-5ee0424397b3/Game-Development-Test-Math-Challenge-Mini-Game.docx)
